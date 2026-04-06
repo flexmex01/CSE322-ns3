@@ -1,2 +1,11 @@
+# Ignore NS-3 build/cache folders
 ns-3.39/cmake-cache/
+ns-3.39/build/
+ns-3.39/CMakeFiles/
+ns-3.39/CMakeCache.txt
+*.o
+*.out
+*.log
+
+# macOS metadata
 .DS_Store
